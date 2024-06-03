@@ -1,3 +1,3 @@
 # proxy
-https://github.com/smblnts21/proxy/blob/main/dOcean.pac
+https://smblnts21.github.io/proxy/dOcean.pac
 para tunel
